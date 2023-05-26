@@ -1,7 +1,5 @@
 <?php
 
-// namespace App\Helpers;
-// use App\Helpers\FrequencyAnalysis;
 require_once './lib/FrequencyAnalysis.php';
 
 /**

@@ -1,9 +1,5 @@
 <?php
 
-// namespace App\Helpers;
-// use App\Helpers\Helper;
-// use App\Helpers\CaesarCipher;
-// use Illuminate\Support\Facades\Http;
 require_once './lib/Helper.php';
 require_once './lib/CaesarCipher.php';
 

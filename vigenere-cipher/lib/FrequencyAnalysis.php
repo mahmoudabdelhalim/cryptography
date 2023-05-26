@@ -1,7 +1,5 @@
 <?php
 
-// namespace App\Helpers;
-
 /**
  * Frequency Analysis Class.
  * 
